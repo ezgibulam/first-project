@@ -1,0 +1,30 @@
+header{
+    background-color: rgba(240, 128, 128,0.8);
+    color: White;
+    text-align: center;
+    padding: 1em;
+}
+h1{
+    color: Maroon;
+ 
+}
+h2{
+    color: FireBrick;
+}
+h3
+{
+    color: Crimson;
+        background-color: MistyRose;
+}
+h4{
+    color: IndianRed;
+    
+}
+
+p{
+    color: DarkRed;
+}
+li{
+    color: DarkRed;
+
+}
